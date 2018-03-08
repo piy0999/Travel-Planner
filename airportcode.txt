@@ -1,0 +1,50 @@
+JFK,USA
+SYD,Australia
+ICN,South Korea
+MEL,Australia
+KIX,Japan
+YYZ,Canada
+SIN,Singapore
+AKL,New Zealand
+BCN,Spain
+BER,Germany
+BGO,Norway
+DXB,United Arab Emirates
+FRA,Germany
+HAN,Vietnam
+HEL,Finland
+ISB,Pakistan
+IST,Turkey
+JED,Saudi Arabia
+JHB,Malaysia
+JKT,Indonesia
+KHH,Taiwan
+KHI,Pakistan
+KRK,Poland
+LAS,USA
+LHR,United Kingdom
+MAD,Spain
+MAN,United Kingdom
+MIL,Italy
+MNL,Philippines
+MOW,Russia
+NCE,France
+NRT,Japan
+OSL,Norway
+OUL,Finland
+PAR,France
+PEN,Malaysia
+PRG,Czech Republic
+PUS,South Korea
+ROM,Italy
+SAH,Yemen
+SEA,USA
+SFO,USA
+SGN,Vietnam
+STO,Sweden
+UAK,Greenland
+UHE,Czech Republic
+VCE,Italy
+XMN,China
+YVR,Canada
+ZRH,Switzerland
